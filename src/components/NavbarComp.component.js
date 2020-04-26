@@ -14,7 +14,7 @@ class NavbarComp extends Component{
    return (
       <div>
         <Navbar className = "nav" bg = "primary" expand = "lg"   >
-          <NavbarBrand href="/" id = "navbar-brand">
+          <NavbarBrand href="/Lynz-Frontend" id = "navbar-brand">
           <img id = "logo"
             alt=""
             src= {logo}
