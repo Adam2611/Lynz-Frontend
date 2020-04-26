@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Lynz-Frontend/precache-manifest.b70f9f4b46726d3e14898f0b16791005.js"
+  "/Lynz-Frontend/precache-manifest.ce1eedcb096dc569b7b613abbedfe902.js"
 );
 
 self.addEventListener('message', (event) => {
