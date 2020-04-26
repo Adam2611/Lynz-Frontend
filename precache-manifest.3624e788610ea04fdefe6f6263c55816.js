@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d59980f727abf23267d8678dc1390c8f",
+    "revision": "ff561c9cfa0708885a92d6a267a7cae4",
     "url": "/Lynz-Frontend/index.html"
   },
   {
-    "revision": "772ac2b3cfdd678951d9",
+    "revision": "d5dace1f269b40d048d0",
     "url": "/Lynz-Frontend/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "473f2e3791460a8a1d0c",
+    "revision": "c3fcec2e814c76178690",
     "url": "/Lynz-Frontend/static/css/main.caacea82.chunk.css"
   },
   {
-    "revision": "772ac2b3cfdd678951d9",
-    "url": "/Lynz-Frontend/static/js/2.19aa3cec.chunk.js"
+    "revision": "d5dace1f269b40d048d0",
+    "url": "/Lynz-Frontend/static/js/2.95283aa5.chunk.js"
   },
   {
     "revision": "d2966845b94a3318bf32eecc7af8015d",
-    "url": "/Lynz-Frontend/static/js/2.19aa3cec.chunk.js.LICENSE.txt"
+    "url": "/Lynz-Frontend/static/js/2.95283aa5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "473f2e3791460a8a1d0c",
-    "url": "/Lynz-Frontend/static/js/main.2c9d55df.chunk.js"
+    "revision": "c3fcec2e814c76178690",
+    "url": "/Lynz-Frontend/static/js/main.f15e6108.chunk.js"
   },
   {
     "revision": "73bc45d20b5a64afb0a4",
