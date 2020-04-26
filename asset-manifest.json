@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Lynz-Frontend/static/css/main.caacea82.chunk.css",
-    "main.js": "/Lynz-Frontend/static/js/main.6f67f081.chunk.js",
-    "main.js.map": "/Lynz-Frontend/static/js/main.6f67f081.chunk.js.map",
+    "main.js": "/Lynz-Frontend/static/js/main.daa44c99.chunk.js",
+    "main.js.map": "/Lynz-Frontend/static/js/main.daa44c99.chunk.js.map",
     "runtime-main.js": "/Lynz-Frontend/static/js/runtime-main.681f7e31.js",
     "runtime-main.js.map": "/Lynz-Frontend/static/js/runtime-main.681f7e31.js.map",
     "static/css/2.69121389.chunk.css": "/Lynz-Frontend/static/css/2.69121389.chunk.css",
     "static/js/2.95283aa5.chunk.js": "/Lynz-Frontend/static/js/2.95283aa5.chunk.js",
     "static/js/2.95283aa5.chunk.js.map": "/Lynz-Frontend/static/js/2.95283aa5.chunk.js.map",
     "index.html": "/Lynz-Frontend/index.html",
-    "precache-manifest.61647f03739d06c2939841d8496b6ece.js": "/Lynz-Frontend/precache-manifest.61647f03739d06c2939841d8496b6ece.js",
+    "precache-manifest.1286f2b15b2ff24fc69aba302dc148c6.js": "/Lynz-Frontend/precache-manifest.1286f2b15b2ff24fc69aba302dc148c6.js",
     "service-worker.js": "/Lynz-Frontend/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/Lynz-Frontend/static/css/2.69121389.chunk.css.map",
     "static/css/main.caacea82.chunk.css.map": "/Lynz-Frontend/static/css/main.caacea82.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/css/2.69121389.chunk.css",
     "static/js/2.95283aa5.chunk.js",
     "static/css/main.caacea82.chunk.css",
-    "static/js/main.6f67f081.chunk.js"
+    "static/js/main.daa44c99.chunk.js"
   ]
 }
