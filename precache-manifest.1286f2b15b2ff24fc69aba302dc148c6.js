@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "082538fa98d0f86c5f19c0aaed8c1389",
+    "revision": "b97ced55adc33f23efc0d3280ffe8cac",
     "url": "/Lynz-Frontend/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Lynz-Frontend/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "b0eda84e5a039a3e47df",
+    "revision": "fff0351f38ca222d49e2",
     "url": "/Lynz-Frontend/static/css/main.caacea82.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Lynz-Frontend/static/js/2.95283aa5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b0eda84e5a039a3e47df",
-    "url": "/Lynz-Frontend/static/js/main.1a4db6de.chunk.js"
+    "revision": "fff0351f38ca222d49e2",
+    "url": "/Lynz-Frontend/static/js/main.daa44c99.chunk.js"
   },
   {
     "revision": "73bc45d20b5a64afb0a4",
