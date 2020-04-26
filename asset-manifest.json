@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/Adam2611/Lynz-Frontend/static/css/main.caacea82.chunk.css",
-    "main.js": "/Adam2611/Lynz-Frontend/static/js/main.aebf69d4.chunk.js",
-    "main.js.map": "/Adam2611/Lynz-Frontend/static/js/main.aebf69d4.chunk.js.map",
-    "runtime-main.js": "/Adam2611/Lynz-Frontend/static/js/runtime-main.79b811ef.js",
-    "runtime-main.js.map": "/Adam2611/Lynz-Frontend/static/js/runtime-main.79b811ef.js.map",
-    "static/css/2.69121389.chunk.css": "/Adam2611/Lynz-Frontend/static/css/2.69121389.chunk.css",
-    "static/js/2.95283aa5.chunk.js": "/Adam2611/Lynz-Frontend/static/js/2.95283aa5.chunk.js",
-    "static/js/2.95283aa5.chunk.js.map": "/Adam2611/Lynz-Frontend/static/js/2.95283aa5.chunk.js.map",
-    "index.html": "/Adam2611/Lynz-Frontend/index.html",
-    "precache-manifest.18029c473bcb3b96b231fe451d5eabde.js": "/Adam2611/Lynz-Frontend/precache-manifest.18029c473bcb3b96b231fe451d5eabde.js",
-    "service-worker.js": "/Adam2611/Lynz-Frontend/service-worker.js",
-    "static/css/2.69121389.chunk.css.map": "/Adam2611/Lynz-Frontend/static/css/2.69121389.chunk.css.map",
-    "static/css/main.caacea82.chunk.css.map": "/Adam2611/Lynz-Frontend/static/css/main.caacea82.chunk.css.map",
-    "static/js/2.95283aa5.chunk.js.LICENSE.txt": "/Adam2611/Lynz-Frontend/static/js/2.95283aa5.chunk.js.LICENSE.txt",
-    "static/media/busy.jpg": "/Adam2611/Lynz-Frontend/static/media/busy.669c6653.jpg",
-    "static/media/corona.jpg": "/Adam2611/Lynz-Frontend/static/media/corona.7484a4a9.jpg",
-    "static/media/helpingedit.jpg": "/Adam2611/Lynz-Frontend/static/media/helpingedit.d3010a4a.jpg",
-    "static/media/store.jpg": "/Adam2611/Lynz-Frontend/static/media/store.26d4d0be.jpg"
+    "main.css": "/Lynz-Frontend/static/css/main.caacea82.chunk.css",
+    "main.js": "/Lynz-Frontend/static/js/main.8ea3d905.chunk.js",
+    "main.js.map": "/Lynz-Frontend/static/js/main.8ea3d905.chunk.js.map",
+    "runtime-main.js": "/Lynz-Frontend/static/js/runtime-main.681f7e31.js",
+    "runtime-main.js.map": "/Lynz-Frontend/static/js/runtime-main.681f7e31.js.map",
+    "static/css/2.69121389.chunk.css": "/Lynz-Frontend/static/css/2.69121389.chunk.css",
+    "static/js/2.95283aa5.chunk.js": "/Lynz-Frontend/static/js/2.95283aa5.chunk.js",
+    "static/js/2.95283aa5.chunk.js.map": "/Lynz-Frontend/static/js/2.95283aa5.chunk.js.map",
+    "index.html": "/Lynz-Frontend/index.html",
+    "precache-manifest.982fc096359ba0ac57221453f0a1a9af.js": "/Lynz-Frontend/precache-manifest.982fc096359ba0ac57221453f0a1a9af.js",
+    "service-worker.js": "/Lynz-Frontend/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/Lynz-Frontend/static/css/2.69121389.chunk.css.map",
+    "static/css/main.caacea82.chunk.css.map": "/Lynz-Frontend/static/css/main.caacea82.chunk.css.map",
+    "static/js/2.95283aa5.chunk.js.LICENSE.txt": "/Lynz-Frontend/static/js/2.95283aa5.chunk.js.LICENSE.txt",
+    "static/media/busy.jpg": "/Lynz-Frontend/static/media/busy.669c6653.jpg",
+    "static/media/corona.jpg": "/Lynz-Frontend/static/media/corona.7484a4a9.jpg",
+    "static/media/helpingedit.jpg": "/Lynz-Frontend/static/media/helpingedit.d3010a4a.jpg",
+    "static/media/store.jpg": "/Lynz-Frontend/static/media/store.26d4d0be.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.79b811ef.js",
+    "static/js/runtime-main.681f7e31.js",
     "static/css/2.69121389.chunk.css",
     "static/js/2.95283aa5.chunk.js",
     "static/css/main.caacea82.chunk.css",
-    "static/js/main.aebf69d4.chunk.js"
+    "static/js/main.8ea3d905.chunk.js"
   ]
 }
